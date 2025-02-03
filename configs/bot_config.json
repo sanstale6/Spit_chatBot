@@ -1,10 +1,10 @@
 {
   "fixed_params" :
   {
-    "bot_qq" : 114514,
+    "bot_qq" : 3065951624,
     "bot_nickname" : "SpitFlight",
-    "admin_qq" : [],
-    "api-key" : "sk-euDQstLFJYFuJNuN********************************",
+    "admin_qq" : [2897310747],
+    "api-key" : "sk-S7TrxHp6wLBHdByt5bE6663406E1458aBf472e903d254c8c",
     "proxy" : "http://127.0.0.1:10**"
   },
 
